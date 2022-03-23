@@ -1,0 +1,39 @@
+
+.header {
+    width: 100%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+#ul {
+    width: 100%;
+    height: auto;
+    padding-left: 0;
+}
+    
+.list {
+    background-color: rgba(253, 251, 251, 0.555);
+    list-style-type: none;
+    padding: 0.5rem 2rem;
+
+    /*Disposition flex*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.tache {
+    text-decoration: none;
+    color: black; 
+}
+
+#btn { 
+    width: 0; 
+    
+} 
+#test{
+    background-color: rgba(197, 195, 195, 0.555);
+}
